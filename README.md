@@ -5,7 +5,7 @@ I wanna be a DX consultant.
 - 🎓 Hankuk university of foreign studies, Global Business & Technology.
 - 👥 I run a global 500K SNS account.
 - 🛒 I sold Korean Wave products to six countries with e-commerce Shopee.
-- ✔️ Student Intern
+- 👩🏻‍💼 Student Intern
   - GPA Korea
   - DreamPictures21
 - ⚙️ I’m currently learning Machine Learning, AI, and Consulting at KT AIVLE School.
