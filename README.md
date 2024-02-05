@@ -16,7 +16,7 @@ I wanna be a DX consultant.
 <a href="https://blog.naver.com/rkdus2di" target="_blank"><img src="https://img.shields.io/badge/Naver Blog-00c9f2?style=flat-square&logo=naver&logoColor=white"/></a>
 <a href="https://github.com/ganiz-kim" target="_blank"><img src="https://img.shields.io/badge/GitHub-2a2a2a?style=flat-square&logo=GitHub&logoColor=white"/></a>
 
-✏ Stack   
+#### ✏ Stack   
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Google Ads-4285F4?style=flat&logo=Google Ads&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Google Colab-F9AB00?style=flat&logo=Google Colab&logoColor=white"/>
