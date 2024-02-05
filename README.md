@@ -4,6 +4,7 @@ I wanna be a DX consultant.
 💫 Experience   
 - Hankuk university of foreign studies, Global Business & Technology.
 - I run a global 500K SNS account.
+- I sold Korean Wave products to six countries with e-commerce Shopee.
 - Student Intern
   - GPA Korea
   - DreamPictures21
