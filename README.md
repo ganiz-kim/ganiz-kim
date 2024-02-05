@@ -2,14 +2,14 @@
 I wanna be a DX consultant.
 
 #### 💫 Experience   
-- Hankuk university of foreign studies, Global Business & Technology.
-- I run a global 500K SNS account.
-- I sold Korean Wave products to six countries with e-commerce Shopee.
-- Student Intern
+- 🎓 Hankuk university of foreign studies, Global Business & Technology.
+- 👥 I run a global 500K SNS account.
+- 🛒 I sold Korean Wave products to six countries with e-commerce Shopee.
+- ✔️ Student Intern
   - GPA Korea
   - DreamPictures21
-- I’m currently learning Machine Learning, AI, and Consulting at KT AIVLE School.
-- How to reach me: rkdus2di@naver.com 
+- ⚙️ I’m currently learning Machine Learning, AI, and Consulting at KT AIVLE School.
+- 📨 How to reach me: rkdus2di@naver.com 
 
 #### 💁🏻‍♀️ Accounts   
 <a href="https://https://www.facebook.com/Trendinko/" target="_blank"><img src="https://img.shields.io/badge/Facebook-ce4e24?style=flat-square&logo=Facebook&logoColor=white"/></a>
