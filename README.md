@@ -7,7 +7,7 @@ I wanna be a DX consultant.
 - 🏢 Student Intern
   - GPA Korea
   - DreamPictures21
-- 🌱 I’m currently learning Machine Learning, AI, and consulting at KT AIVLE School.
+- 🌱 I’m currently learning Machine Learning, AI, and Consulting at KT AIVLE School.
 - 📫 How to reach me: rkdus2di@naver.com 
 
 <a href="https://https://www.facebook.com/Trendinko/" target="_blank"><img src="https://img.shields.io/badge/Facebook-ce4e24?style=flat-square&logo=Facebook&logoColor=white"/></a>
