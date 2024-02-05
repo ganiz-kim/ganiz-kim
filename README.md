@@ -4,8 +4,9 @@ I wanna be a DX consultant.
 ### 💫 Experience
 - 🎓 Hankuk university of foreign studies, Global Business & Technology.
 - 👥 I run a global 500K SNS account.
-- 🏢 Student Intern - GPA Korea
-                 - DreamPictures21
+- 🏢 Student Intern
+  - GPA Korea
+  - DreamPictures21
 - 🌱 I’m currently learning Machine Learning, AI, and consulting at KT AIVLE School.
 - 📫 How to reach me: rkdus2di@naver.com 
 
